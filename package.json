@@ -1,0 +1,19 @@
+{
+  "name": "debtwise-ai",
+  "version": "1.0.0",
+  "description": "DebtWise AI backend prototype implemented with zero external npm dependencies.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "NODE_ENV=development node src/server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "debt",
+    "finance",
+    "planning"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs"
+}
