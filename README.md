@@ -62,6 +62,12 @@ data/db.json        # Persistent storage
 - Add push notification integrations (APNs/FCM).
 - Provide PDF export and predictive analytics for premium tier (v2 goals).
 
+## Front-End Concept Prototype
+
+For a visual reference of the DebtWise AI experience, a comprehensive React component prototype is available at
+`docs/frontend/DebtWiseAI.jsx`. The component demonstrates the planned dashboard, debt management flows, repayment strategy
+selection, and premium analytics that complement this backend service.
+
 ## Security Notes
 
 - Passwords are hashed with PBKDF2 (120k iterations, SHA-512).
